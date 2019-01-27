@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: "Courier 10 Pitch";
+    font-size: 60px;
+}
+
+.cake {
+    background-image: url("../src/images/tux.jpg");
+}
