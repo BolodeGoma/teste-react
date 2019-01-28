@@ -3,7 +3,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const devMode = process.env.NODE_ENV !== 'production'
 
 module.exports = {
-    entry: "./ex/index.jsx",
+    entry: "./src/index.js",
     output: {
         path: __dirname + '/public',
         filename: "./bundle.js"
@@ -19,7 +19,7 @@ module.exports = {
     ],
     module: {
         rules: [{
-            test: /.jsx?$/,
+            test: /.js?$/,
             loader: "babel-loader",
             exclude: /node_modules/,
             query: {
