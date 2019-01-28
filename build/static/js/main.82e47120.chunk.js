@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,,,function(e,n,t){e.exports=t.p+"static/media/cake.7fa23e6b.jpg"},function(e,n,t){e.exports=t(5)},function(e,n,t){"use strict";t.r(n);var c=t(0),a=t.n(c),o=t(2),p=t.n(o),i=t(3),r=t.n(i);t(11);p.a.render(a.a.createElement("h1",null," Ol\xe1 React"),document.getElementById("app")),document.getElementById("cake").src=r.a},,,,,,function(e,n,t){}],[[4,2,1]]]);
+//# sourceMappingURL=main.82e47120.chunk.js.map
